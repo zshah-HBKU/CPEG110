@@ -1,5 +1,5 @@
 # CPEG110
-Welcome to the Principles of Computing course by Dr. Zubair Shah! This GitHub repository serves as a hub for all course materials related to the Python programming language, CPEG110. Stay tuned for announcements and updates regarding this face-to-face course on HBKU Canvas. Please keep yourself up to date by frequently visiting the course page. See you all in the class.
+Welcome to the Principles of Computing course by Dr. Zubair Shah (https://scholar.google.com.au/citations?hl=en&user=WOpOkdMAAAAJ)! This GitHub repository serves as a hub for all course materials related to the Python programming language, CPEG110, at the College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar. Stay tuned for announcements and updates regarding this face-to-face course on HBKU Canvas. Please keep yourself up to date by frequently visiting the course page. See you all in the class.
 
 There will be two classes every week.
 
